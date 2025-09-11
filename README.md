@@ -2,12 +2,12 @@
 
 <div align="center">
   
-  <!-- Logo Angular com gradiente -->
-  <img src="/assets/angular_wordmark_gradient.png" width="500" alt="Angular Course Banner">
-  
   [![Angular](https://img.shields.io/badge/Angular-16.0.0-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.2-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Ada Tech](https://img.shields.io/badge/Ada%20Tech-8B5CF6?style=for-the-badge)](https://ada.tech/)
+
+  <!-- Logo Angular com gradiente -->
+  <img src="/assets/angular_wordmark_gradient.png" width="500" alt="Angular Course Banner">
 
 </div>
 
