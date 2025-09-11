@@ -4,6 +4,7 @@
   
   [![Angular](https://img.shields.io/badge/Angular-16.0.0-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.2-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Node.js](https://img.shields.io/badge/Node.js-18.17.0-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
   [![Ada Tech](https://img.shields.io/badge/Ada%20Tech-8B5CF6?style=for-the-badge)](https://ada.tech/)
 
   <!-- Logo Angular com gradiente -->
