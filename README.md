@@ -14,26 +14,6 @@
 
 Repositório do curso **"Introdução ao Angular"** da Ada Tech, parte da formação Front-End Angular do programa Caixaverso.
 
-## 📂 Projeto Desenvolvido
-
-### 🛒 Mercado
-
-**Aula 2** - Primeiro projeto Angular criado durante o curso.
-
-**Tecnologias:**
-
-- Angular 16.0.0
-- TypeScript 5.0.2
-- RxJS 7.8.0
-
-```bash
-cd mercado
-npm install
-npm start
-```
-
-Acesse: `http://localhost:4200`
-
 ---
 
 ## 📝 Progresso das Aulas
@@ -52,73 +32,6 @@ Acesse: `http://localhost:4200`
 | 10   | ⏳     | Modularização                                 |
 
 ---
-
-## 🛠️ Como Executar
-
-### Pré-requisitos
-
-- **Node.js** (v16 ou superior)
-- **Angular CLI:** `npm install -g @angular/cli@16`
-
-### Instalação e Execução
-
-```bash
-# 1. Clonar repositório
-git clone https://github.com/oarthurma/introducao-angular-ada-tech.git
-cd introducao-angular-ada-tech
-
-# 2. Entrar no projeto
-cd mercado
-
-# 3. Instalar dependências
-npm install
-
-# 4. Executar em modo desenvolvimento
-npm start
-# ou
-ng serve
-
-# 5. Abrir no navegador
-# http://localhost:4200
-```
-
-### Scripts Disponíveis
-
-```bash
-npm start          # Inicia servidor de desenvolvimento
-npm run build      # Build para produção
-npm run watch      # Build em modo watch
-npm test           # Executa testes unitários
-```
-
-## 🚀 Tecnologias Utilizadas
-
-### Core
-
-- **Angular** 16.0.0
-- **TypeScript** 5.0.2
-- **RxJS** 7.8.0
-
-### Desenvolvimento
-
-- **Angular CLI** 16.0.0
-- **Karma + Jasmine** (Testes)
-- **Zone.js** 0.13.0
-
-## 📁 Estrutura do Projeto
-
-```
-mercado/
-├── src/
-│   ├── app/           # Componentes da aplicação
-│   ├── assets/        # Assets estáticos
-│   ├── index.html     # HTML principal
-│   ├── main.ts        # Bootstrap da aplicação
-│   └── styles.css     # Estilos globais
-├── package.json       # Dependências do projeto
-├── angular.json       # Configuração do Angular
-└── tsconfig.json      # Configuração do TypeScript
-```
 
 ## 👨‍💻 Desenvolvedor
 
