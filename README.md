@@ -8,20 +8,13 @@
   [![Ada Tech](https://img.shields.io/badge/Ada%20Tech-8B5CF6?style=for-the-badge)](https://ada.tech/)
 
   <!-- Logo Angular com gradiente -->
-  <img src="/assets/angular_wordmark_gradient.png" width="500" alt="Angular Course Banner">
+  <img src="/assets/angular_wordmark_gradient.png" width="500" alt="Banner do logo do Angular em gradiente">
 
 </div>
 
 Repositório do curso **"Introdução ao Angular"** da Ada Tech, parte da formação Front-End Angular do programa Caixaverso.
 
-## 🎯 Sobre o Curso
-
-- **🕒 Carga Horária:** 2 horas
-- **🎓 Nível:** Iniciante
-- **🏢 Instituição:** Ada Tech
-- **📋 Programa:** Caixaverso - Front-End Angular
-
-## 📂 Projetos Desenvolvidos
+## 📂 Projeto Desenvolvido
 
 ### 🛒 Mercado
 
@@ -47,9 +40,16 @@ Acesse: `http://localhost:4200`
 
 | Aula | Status | Descrição                                     |
 | ---- | ------ | --------------------------------------------- |
-| 1    | ✅     | Apresentação do Angular                       |
-| 2    | ✅     | Projeto "Mercado" - Setup inicial e estrutura |
-| 3    | ⏳     | -                                             |
+| 01   | ✅     | Introdução ao Angular                         |
+| 02   | ✅     | Instalações e estrutura de projeto            |
+| 03   | ⏳     | Componente reutilizável                       |
+| 04   | ⏳     | Trafegando dados entre template e componentes |
+| 05   | ⏳     | @Input()                                      |
+| 06   | ⏳     | @Output()                                     |
+| 07   | ⏳     | Services - Parte 1                            |
+| 08   | ⏳     | Services - Parte 2                            |
+| 09   | ⏳     | Rotas                                         |
+| 10   | ⏳     | Modularização                                 |
 
 ---
 
