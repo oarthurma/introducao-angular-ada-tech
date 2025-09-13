@@ -22,7 +22,7 @@ Repositório do curso **"Introdução ao Angular"** da Ada Tech, parte da forma�
 | ---- | ------ | --------------------------------------------- |
 | 01   | ✅     | Introdução ao Angular                         |
 | 02   | ✅     | Instalações e estrutura de projeto            |
-| 03   | ⏳     | Componente reutilizável                       |
+| 03   | ✅     | Componente reutilizável                       |
 | 04   | ⏳     | Trafegando dados entre template e componentes |
 | 05   | ⏳     | @Input()                                      |
 | 06   | ⏳     | @Output()                                     |
