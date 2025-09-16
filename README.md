@@ -26,7 +26,7 @@ Repositório do curso **"Introdução ao Angular"** da Ada Tech, parte da forma�
 | 04   | ✅     | Trafegando dados entre template e componentes |
 | 05   | ✅     | @Input()                                      |
 | 06   | ✅     | @Output()                                     |
-| 07   | ⏳     | Services - Parte 1                            |
+| 07   | ✅     | Services - Parte 1                            |
 | 08   | ⏳     | Services - Parte 2                            |
 | 09   | ⏳     | Rotas                                         |
 | 10   | ⏳     | Modularização                                 |
